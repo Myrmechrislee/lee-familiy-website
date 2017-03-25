@@ -1,0 +1,29 @@
+{
+  "name": "lee-familiy-website-master",
+  "version": "1.0.0",
+  "description": "A website made by the lee family",
+  "main": "server.js",
+  "scripts": {
+    "test": "node ./server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Myrmechrislee/lee-familiy-website.git"
+  },
+  "keywords": [
+    "git",
+    "npm",
+    "node",
+    "nodejs",
+    "js",
+    "javascript",
+    "collaboration"
+  ],
+  "author": "nodejs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Myrmechrislee/lee-familiy-website/issues"
+  },
+  "homepage": "https://github.com/Myrmechrislee/lee-familiy-website#readme"
+}
