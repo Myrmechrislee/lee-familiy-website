@@ -20,7 +20,8 @@
     "javascript",
     "collaboration"
   ],
-  "author": "nodejs",
+  "author": "Myrmechrislee",
+  "co-authors": ["clintonalee"],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Myrmechrislee/lee-familiy-website/issues"
